@@ -31,7 +31,6 @@
 127.0.0.1        *.adf.ly
 127.0.0.1       yahoo.com
 127.0.0.1       entuculo.com
-127.0.0.1       bing.com
 127.0.0.1       pornhub.com
 127.0.0.1       bankofamerica.com
 127.0.0.1       aliexpress.com
@@ -279,3 +278,7 @@
 142.250.200.131    www.google.es      #forcesafesearch
 142.250.184.4      www.google.es      #forcesafesearch
 204.79.197.220 www.bing.com
+127.0.0.1      kekma.ga
+127.0.0.1      www.kekma.ga
+127.0.0.1      www.kekma.net
+127.0.0.1      kekma.net
