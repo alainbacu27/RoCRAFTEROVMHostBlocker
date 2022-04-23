@@ -23,8 +23,8 @@
 127.0.0.1	pornhub.com
 127.0.0.1       xvideos.com
 127.0.0.1       xnxxx.com
-127.0.0.1      *.bbva.es
-127.0.0.1       bbva.es
+127.0.0.1       *.bbva.es
+127.0.0.1         bbva.es
 127.0.0.1       *.softonic.com
 127.0.0.1        niggas.ga
 127.0.0.1        adf.ly
@@ -141,7 +141,7 @@
 127.0.0.1     uptodown.com
 127.0.0.1     *.uptodown.com 
 127.0.0.1     *.151.101.134.133
-127.0.0.1     taboola.com
+127.0.0.1      taboola.com
 127.0.0.1     *.taboola.com
 127.0.0.1     tpc.googlesyndication.com
 127.0.0.1     www.tpc.googlesyndication.com
@@ -174,7 +174,7 @@
 127.0.0.1      www.softonic.com
 127.0.0.1      www.phcdn.net
 127.0.0.1      xvideos.com
-127.0.0.1      xnxxx.com
+127.0.0.1       xnxxx.com
 127.0.0.1      *.sftcdn.net
 127.0.0.1      sftcdn.net
 127.0.0.1      www.sftcdn.net
@@ -348,3 +348,6 @@
 127.0.0.1      surfshark.net
 127.0.0.1      www.surfshark.net
 127.0.0.1      get.surfshark.net
+127.0.0.1      github.com
+127.0.0.1      www.github.com
+127.0.0.1      githubusercontent.com
