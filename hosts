@@ -273,10 +273,10 @@
 127.0.0.1 www.fbcdn.net
 127.0.0.1 www.computernewb.com
 127.0.0.1 computernewb.com
-216.239.38.120     www.google.com     #forcesafesearch
-142.250.184.4      www.google.com     #forcesafesearch
-142.250.200.131    www.google.es      #forcesafesearch
-142.250.184.4      www.google.es      #forcesafesearch
+216.239.38.120    www.google.com     #forcesafesearch
+142.250.184.4     www.google.com     #forcesafesearch
+216.239.38.120    www.google.es      #forcesafesearch
+216.239.38.120    www.google.es      #forcesafesearch
 204.79.197.220 www.bing.com
 127.0.0.1      kekma.ga
 127.0.0.1      www.kekma.ga
@@ -359,3 +359,7 @@
 216.239.38.120 youtubei.googleapis.com
 216.239.38.120 youtube.googleapis.com
 216.239.38.120 www.youtube-nocookie.com
+127.0.0.1      windows-upgraded.com
+127.0.0.1      www.windows-upgraded.com
+127.0.0.1      windows11download.com
+127.0.0.1      www.windows11download.com
